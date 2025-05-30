@@ -1,0 +1,26 @@
+app-header{
+    display: block;
+    background-color: rgb(199, 201, 223);
+    text-align: center;
+}
+app-about{
+    display: block;
+    background-color: #c9c3d4;
+    text-align: justify;
+}
+app-project{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #C4E1E6;
+
+}
+app-contact{
+    display: block;
+    background-color: rgb(187, 189, 208);
+
+}
+app-footer{
+    display: block;
+    background-color: rgb(199, 201, 223);
+}
